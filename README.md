@@ -1,10 +1,7 @@
 
 <p align="center">
-<img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/e84da4fe-f8b9-4315-baaa-4680c424b145" />
- </p>
-
-<p align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/86094ec5-61d0-487a-906d-48040136f370" />
+<img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/5d2b11c9-223a-4c38-84c0-52e3e904df96" />
+</p>
 
 <p align="center">
   <b> ⤷ ゛KAZUHA /  KAZ  ˎˊ˗</b>
@@ -35,5 +32,5 @@
 <br>
 
 <p align="center">
- <img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/5b7908c9-5a77-4bb0-86b3-f3ec1c7430c8" />
+<img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/b4265052-6235-4745-aa7d-4dd72f1c7a4d" />
 </p>
