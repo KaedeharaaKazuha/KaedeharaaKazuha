@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
- 𓏲﹕  w2i • c+h is allowed depending on the pony!!   ﹕⸝⸝
+ 𓏲﹕  w2i • do not c+h unless friends   ﹕⸝⸝
 </p>
 
 <br>
